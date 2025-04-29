@@ -1,5 +1,4 @@
 # Loan Management System (LMS)
-***
 **Applications**  
 Framework: Limonade  
 PHP Version:  8.0  
