@@ -1,0 +1,254 @@
+html.busy, html.busy * { cursor: wait !important; }  
+.table-condensed th, .table-condensed td { padding: 0px !important; }
+.payment-details { font-size: 12px; }
+
+.sortable > * {
+	cursor: move;
+}
+
+.chosen-container {
+	width: 100% !important;
+	max-width: 100%;
+	min-width: 100%;
+}
+
+.chosen-container-single .chosen-single,
+.chosen-container-single .chosen-single:focus {
+	border-radius: 0px;
+	color: #fff;
+	background: #ABB7B7;
+	box-shadow: none;
+	padding: 6px 12px;
+	height: 34px;
+	border: none;
+}
+
+.chosen-container-single .chosen-single div {
+	top: 13px;
+	right: 2px;
+}
+
+.chosen-container-single .chosen-single div b {
+	background: none;
+	border-top: 4px solid;
+	border-right: 4px solid transparent;
+	border-left: 4px solid transparent;
+	width: 0px;
+	height: 0px;
+}
+
+.chosen-container-active.chosen-with-drop .chosen-single {
+	background: #ABB7B7;
+	border: 0;
+}
+
+.multiImg {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 100px;
+	min-height: 137px;
+	border: 1px solid #ccc;
+	text-align: center;
+	padding: 5px 5px 0px 5px;
+	margin: 0 5px 5px 0;
+}
+
+.multiImg a {
+	color: #68C39F;
+	font-size: 12px;
+}
+
+.multiImg a:hover {
+	color: #000;
+}
+
+.multiImg img {
+	max-width: 100px;	
+	max-height: 130px;
+}
+
+.multiImg input {
+	display: block;
+	margin: auto;
+	max-width: 100px;
+}
+
+.multiPrices input {
+	width: 100px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 0 5px;
+}
+
+.multiPrices select {
+	width: 200px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 0 5px;
+}
+
+.multiOptions {
+	counter-increment: num;
+	border: 1px solid #ddd;
+	background: #f9f9f9;
+	padding: 5px;
+	margin: 0 0 5px;
+}
+
+.singleOption {
+	border: 1px solid #ddd;
+	background: #f9f9f9;
+	padding: 5px;
+	margin: 0 0 5px;
+}
+
+.multiOptions:before {
+    content: counter(num) ". ";
+}
+
+.multiOptions input,
+.singleOption input {
+	width: 250px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 0 5px;
+}
+
+.multiOptions ul.options {
+	padding: 0 0 0 40px;
+}
+
+.singleOption ul.option {
+	padding: 5px 0 5px 20px;
+	margin: 0;
+}
+
+.multiOptions ul.options li,
+.singleOption ul.option li {
+	list-style-type: square;
+}
+
+.multiOptions ul.options li input,
+.singleOption ul.option li input {
+	width: 150px;
+}
+
+.dataTables_wrapper {
+	width: 97%;
+	margin: auto;
+}
+
+.dataTables_filter {
+	text-align: right;
+}
+
+.toolbar-action a {
+	color: #fff !important;
+}
+
+.bootbox-body i.danger {
+	color: #EB5055 ;
+	font-size: 24px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.dataTables_paginate ul {
+	float: right;
+}
+
+.llist p label {
+	display: inline-block;
+	width: 170px;
+}
+
+.horizontal-form p {
+	position: relative;
+	padding: 0 0 0 160px;
+	margin: 0 0 4px;
+}
+
+.horizontal-form p label {
+	margin: 0 10px 0 0;
+	padding: 5px 0;
+	display: inline-block;
+	text-align: right;
+}
+
+.horizontal-form p label:first-child {
+	position: absolute;
+	top: 5px;
+	left: 0;
+	width: 150px;
+	margin: 0;
+	padding: 0;
+	display: inherit;
+	width: 130px;
+}
+
+.horizontal-form p i {
+	display: inline-block;
+	padding: 5px 0;
+}
+
+.horizontal-form p img {
+	display: block;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 2px;
+}
+
+.horizontal-form p #filelist,
+.horizontal-form p #container {
+	display: block;
+	margin: 5px 0 0;
+}
+
+.horizontal-form input[type="text"],
+.horizontal-form input[type="password"],
+.horizontal-form textarea {
+    border-radius: 5px;
+    border: 1px solid #DDD;
+}
+
+.horizontal-form input[type="text"],
+.horizontal-form input[type="password"],
+.horizontal-form input[type="submit"],
+.horizontal-form textarea {
+    padding: 5px 7px;
+    font-size: 12px;
+}
+
+.chosen-container-multi .chosen-choices {
+	border: 1px solid #ddd;
+	background: #fff;
+	padding: 3px 10px;
+}
+
+.chosen-container {
+	width: 100%;
+}
+
+ul.multi-slider {
+	padding: 0;
+}
+
+ul.multi-slider li {
+	list-style-type: none;
+	margin: 0 0 15px;
+	border: 1px solid #ddd;
+	padding: 10px;
+}
+
+ul.multi-slider li:nth-child(odd){
+	background: #eee;
+}
+
+ul.multi-slider li img {
+	margin: 0;
+}
+
+ul.multi-slider li input[type=text],
+ul.multi-slider li input[type=button] {
+	margin: 5px 0 0;
+}

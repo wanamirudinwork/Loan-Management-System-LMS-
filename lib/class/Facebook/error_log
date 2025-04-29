@@ -1,0 +1,1 @@
+[03-Feb-2018 06:00:42 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/laseemoc/public_html/nicchris.com/lib/class/Facebook/FacebookRequest.php on line 24

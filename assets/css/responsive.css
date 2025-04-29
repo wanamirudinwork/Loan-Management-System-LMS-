@@ -1,0 +1,20 @@
+@media screen and (max-width: 975px) {
+	#hWrapper header .logo img { height: 75px !important; margin: 0 0 5px; }
+	header { padding: 30px auto; }
+	.row > div { margin-bottom: 30px; }
+	header .navbar-nicchris .nav-categories .nav-small { display: block; }
+	header .navbar-default .navbar-collapse { border-color: rgba(229, 196, 166, 0.5); }
+	#slider .carousel-inner .item {	min-height: 300px; }
+	section.cart ul.cart-step li { font-size: 14px; }
+	.table-responsive { border: none; }
+	.row.payment-method > div, #paymentForm .row > div { margin: 5px 0 0; }
+}
+
+@media screen and (max-width: 767px) {
+	header .container-fluid { padding: 0 15px; }
+	header .navbar-nicchris .navbar-nav { margin: 0; }
+	header .navbar-nicchris .nav > li { float: left; display: block; width: 100%; max-width: 100%; }
+	header .navbar-nicchris .nav > li:before { display: none; }
+	header .dropdown-menu > li { text-align: center; }
+	.dropdown-menu > li > a { border-bottom: 1px solid #EEE !important; }
+}

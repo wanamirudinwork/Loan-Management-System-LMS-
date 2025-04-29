@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'HelveticaNeueLTStdLt';
+    src: url('fonts/HelveticaNeueLTStdLt.eot');
+    src: url('fonts/HelveticaNeueLTStdLt.eot') format('embedded-opentype'),
+         url('fonts/HelveticaNeueLTStdLt.woff2') format('woff2'),
+         url('fonts/HelveticaNeueLTStdLt.woff') format('woff'),
+         url('fonts/HelveticaNeueLTStdLt.ttf') format('truetype'),
+         url('fonts/HelveticaNeueLTStdLt.svg#HelveticaNeueLTStdLt') format('svg');
+}
+
+@font-face {
+    font-family: 'HelveticaNeueLTStdMd';
+    src: url('fonts/HelveticaNeueLTStdMd.eot');
+    src: url('fonts/HelveticaNeueLTStdMd.eot') format('embedded-opentype'),
+         url('fonts/HelveticaNeueLTStdMd.woff2') format('woff2'),
+         url('fonts/HelveticaNeueLTStdMd.woff') format('woff'),
+         url('fonts/HelveticaNeueLTStdMd.ttf') format('truetype'),
+         url('fonts/HelveticaNeueLTStdMd.svg#HelveticaNeueLTStdMd') format('svg');
+}
+
+@font-face {
+    font-family: 'RalewayLight';
+    src: url('fonts/RalewayLight.eot');
+    src: url('fonts/RalewayLight.eot') format('embedded-opentype'),
+         url('fonts/RalewayLight.woff2') format('woff2'),
+         url('fonts/RalewayLight.woff') format('woff'),
+         url('fonts/RalewayLight.ttf') format('truetype'),
+         url('fonts/RalewayLight.svg#RalewayLight') format('svg');
+}
+
+@font-face {
+    font-family: 'RalewayMedium';
+    src: url('fonts/RalewayMedium.eot');
+    src: url('fonts/RalewayMedium.eot') format('embedded-opentype'),
+         url('fonts/RalewayMedium.woff2') format('woff2'),
+         url('fonts/RalewayMedium.woff') format('woff'),
+         url('fonts/RalewayMedium.ttf') format('truetype'),
+         url('fonts/RalewayMedium.svg#RalewayMedium') format('svg');
+}
+
+@font-face {
+    font-family: 'CatharsisBedouin';
+    src: url('fonts/CatharsisBedouin.eot');
+    src: url('fonts/CatharsisBedouin.eot') format('embedded-opentype'),
+         url('fonts/CatharsisBedouin.woff2') format('woff2'),
+         url('fonts/CatharsisBedouin.woff') format('woff'),
+         url('fonts/CatharsisBedouin.ttf') format('truetype'),
+         url('fonts/CatharsisBedouin.svg#CatharsisBedouin') format('svg');
+}
+
+@font-face {
+    font-family: 'alhambra';
+    src: url('fonts/alhambra.eot');
+    src: url('fonts/alhambra.eot') format('embedded-opentype'),
+         url('fonts/alhambra.woff2') format('woff2'),
+         url('fonts/alhambra.woff') format('woff'),
+         url('fonts/alhambra.ttf') format('truetype'),
+         url('fonts/alhambra.svg#alhambra') format('svg');
+}
+
+@font-face {
+    font-family: 'ArabDances';
+    src: url('fonts/ArabDances.eot');
+    src: url('fonts/ArabDances.eot') format('embedded-opentype'),
+         url('fonts/ArabDances.woff2') format('woff2'),
+         url('fonts/ArabDances.woff') format('woff'),
+         url('fonts/ArabDances.ttf') format('truetype'),
+         url('fonts/ArabDances.svg#ArabDances') format('svg');
+}
+
+

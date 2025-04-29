@@ -1,0 +1,1 @@
+[04-Sep-2018 04:00:08 UTC] PHP Fatal error:  Class 'TCPDF' not found in /home/byteccom/public_html/dev/inventory/backpanel/TCPDF/invoice.php on line 5
